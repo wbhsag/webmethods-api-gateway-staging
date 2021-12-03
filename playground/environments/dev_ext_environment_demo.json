@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "thesdevext.gateway.webmethodscloud.de",
+			"value": "dpoplaystageint.mycloud-eu-central-1.softwareag.cloud",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "thesdevext.gateway.webmethodscloud.de",
+			"value": "dpoplaystageint.mycloud-eu-central-1.softwareag.cloud",
 			"type": "text",
 			"enabled": true
 		},

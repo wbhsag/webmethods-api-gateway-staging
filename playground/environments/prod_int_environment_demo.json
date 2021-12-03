@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "thesprodint.gateway.webmethodscloud.de",
+			"value": "dpoplayprodext.mycloud-eu-central-1.softwareag.cloud",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "thesprodint.gateway.webmethodscloud.de",
+			"value": "dpoplayprodext.mycloud-eu-central-1.softwareag.cloud",
 			"type": "text",
 			"enabled": true
 		},

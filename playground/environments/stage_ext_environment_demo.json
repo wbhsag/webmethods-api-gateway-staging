@@ -4,13 +4,13 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "thesstageext.gateway.webmethodscloud.de",
+			"value": "dpoplayprodint.mycloud-eu-central-1.softwareag.cloud",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "thesstageext.gateway.webmethodscloud.de",
+			"value": "dpoplayprodint.mycloud-eu-central-1.softwareag.cloud",
 			"type": "text",
 			"enabled": true
 		},
